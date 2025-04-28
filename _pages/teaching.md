@@ -10,4 +10,4 @@ nav_order: 6
 Teaching started: 2006
 
 <p></p>
-<img src="/assets/img/under construction.png">
+<img src="assets/img/under construction.png" style="max-width:100%; height:auto;">
