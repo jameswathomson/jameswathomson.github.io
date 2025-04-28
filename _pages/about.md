@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Sheffield, UK. Innovative Engineering & Digital Technologies Leader | Driving Excellence in Education & Industry
 
 profile:
   align: right
