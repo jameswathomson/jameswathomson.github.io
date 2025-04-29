@@ -22,10 +22,12 @@ async function fetchPodcastEpisodes() {
         const title = episode.querySelector("title").textContent;
         const description = episode.querySelector("description").textContent;
         const audioUrl = episode.querySelector("enclosure").getAttribute("url");
+        const imageUrl = episode.querySelector("itunes\\:image")?.getAttribute("href") || "default-image.jpg"; // Fallback image
 
         episodesHtml += `
             <div>
                 <h2>${title}</h2>
+                <img src="${imageUrl}" alt="Episode Cover" style="max-width:100%; height:auto;">
                 <p>${description}</p>
                 <audio controls>
                     <source src="${audioUrl}" type="audio/mpeg">
