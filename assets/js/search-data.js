@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-podcast",
-          title: "Podcast",
+        },{id: "nav-podcasts",
+          title: "Podcasts",
           description: "This page contains an RSS updated feed of my audio podcasts",
           section: "Navigation",
           handler: () => {
