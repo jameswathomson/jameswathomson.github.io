@@ -92,11 +92,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-the-original-jamesthomson-org-uk-is-launched-using-adobe-flash-and-actionscript-3",
+          title: 'The original jamesthomson.org.uk is launched using Adobe Flash and ActionScript 3',
           description: "",
-          section: "News",},{id: "news-i-created-a-new-website-using-git-pages",
-          title: 'I created a new website using Git Pages.',
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-page-migration-to-github-version-2",
           title: 'Page migration to GitHub - Version 2',
