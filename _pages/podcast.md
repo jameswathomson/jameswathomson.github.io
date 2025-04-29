@@ -39,6 +39,7 @@ async function fetchPodcastEpisodes() {
                     </audio>
                 </div>
             </div>
+             <hr style="border: none; height: 2px; background-color: #ccc; margin: 20px 0;">
         `;
     });
 
