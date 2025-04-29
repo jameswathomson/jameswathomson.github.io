@@ -14,16 +14,22 @@ async function fetchPodcastEpisodes() {
         const title = episode.querySelector("title").textContent;
         const description = episode.querySelector("description").textContent;
         const audioUrl = episode.querySelector("enclosure").getAttribute("url");
-        const imageUrl = episode.querySelector("itunes\\:image")?.getAttribute("href") || "default-image.jpg"; // Fallback image
+
+        // Check for different image tags
+        const imageUrl = episode.querySelector("media\\:thumbnail")?.getAttribute("url") ||
+                         episode.querySelector("image")?.textContent ||
+                         "default-image.jpg"; // Fallback image
 
         episodesHtml += `
-            <div>
-                <h3>${title}</h3>
-                <img src="${imageUrl}" alt="Episode Cover" style="max-width:100%; height:auto;">
-                <h5>${description}</h5>
-                <audio controls>
-                    <source src="${audioUrl}" type="audio/mpeg">
-                </audio>
+            <div style="display: flex; align-items: center; gap: 15px;">
+                <img src="${imageUrl}" alt="Episode Cover" style="width: 120px; height: auto;">
+                <div>
+                    <h2>${title}</h2>
+                    <p>${description}</p>
+                    <audio controls>
+                        <source src="${audioUrl}" type="audio/mpeg">
+                    </audio>
+                </div>
             </div>
         `;
     });
