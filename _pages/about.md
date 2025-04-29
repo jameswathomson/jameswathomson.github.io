@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Innovative Engineering & Digital Technologies Leader | Driving Excellence in Education & Industry
 
