@@ -29,11 +29,11 @@ async function fetchPodcastEpisodes() {
                          "/assets/img/default-image.jpg"; // Fallback image
 
         episodesHtml += `
-            <div style="display: flex; align-items: center; gap: 15px;">
-                <img src="${imageUrl}" alt="Episode Cover" style="width: 120px; height: auto;">
+            <div style="display: flex; align-items: flex-start; gap: 15px;">
+                <img src="${imageUrl}" alt="Episode Cover" style="width: 100px; height: auto;">
                 <div>
-                    <h2>${title}</h2>
-                    <p>${description}</p>
+                  <h3 style="margin: 0; font-size: 1.2em;">${title}</h3>
+                  <p style="font-size: 0.9em; color: #555;">${description}</p>
                     <audio controls>
                         <source src="${audioUrl}" type="audio/mpeg">
                     </audio>
