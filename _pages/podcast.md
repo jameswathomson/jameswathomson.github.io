@@ -1,7 +1,7 @@
 ---
 layout: Page
 permalink: /Podcast/
-title: Podcast
+title: Podcasts
 nav: true
 nav_order: 5
 description: This page contains an RSS updated feed of my audio podcasts
