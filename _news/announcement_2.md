@@ -1,33 +1,23 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Page migration to GitHub - Version 2
+date: 2025-04-29 16:11:00-0400
 inline: false
 related_posts: false
 ---
-
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
----
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
+<H2>Jamesthomson.org.uk V1 (2007-2025)</H2>
+<p>I had been hosting jamesthomson.org.uk for some time on my own pc in the kitchen...This caused a few issues</p>
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+<li>Machine had to be on 24/7</li>
+<li>Any VPN usage had to be quick</li>
+<li>The original site was made in Adobe Flash</li>
+<li>I was on a dynamic IP</li>
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
+<p>I still have a few sites working from my PC, originally editing was easy through Dreamweaver but as the complexity grew so did the upkeep time. I last edited the original flash file some years ago but had done so much more since 
 ---
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<H2>EchoesofPerception.com (2024-2025, brand still going)
+<p>I decided in 2024 to launch 'Echoes of Perception', a brand that would be used on Youtube, Twitter (X), Facebook etc. to showcase some of the work I was doing. I bought a new website, wordpress hosting and created the social profiles. After throwing some time at it I didn't update the site and before you know it the billing is coming around again. It's not that I don't like Wordpress, but it's clunkier than just being able to throw some words together and having a brand that was seperate to my name didn't really do anything to showcase who was doing the work. I needed a rethink!</p>
+---
+<H2>Jamesthomson.org.uk V2 (2025-)
+<p>I had been using Git Pages for some time but just for small projects linked to my work with the HND in Computing at Sheffield College. I decided to unlink jamesthomson.org.uk from my own PC and drop in onto my GitHub site. This gives me an excuse to tidy that site up as well..</p>
+<p>I found videos to help me set up a very decent jekyll theme - al-folio which seems to work well as the basis for my site. The work starts now to populate (and keep populating) it.</p>
