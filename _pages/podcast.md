@@ -26,9 +26,9 @@ async function fetchPodcastEpisodes() {
 
         episodesHtml += `
             <div>
-                <h2>${title}</h2>
+                <h3>${title}</h3>
                 <img src="${imageUrl}" alt="Episode Cover" style="max-width:100%; height:auto;">
-                <p>${description}</p>
+                <h5>${description}</h5>
                 <audio controls>
                     <source src="${audioUrl}" type="audio/mpeg">
                 </audio>
