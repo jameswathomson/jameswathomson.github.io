@@ -18,7 +18,7 @@ async function fetchPodcastEpisodes() {
         // Check for different image tags
         const imageUrl = episode.querySelector("media\\:thumbnail")?.getAttribute("url") ||
                          episode.querySelector("image")?.textContent ||
-                         "default-image.jpg"; // Fallback image
+                         "/assets/img/default-image.jpg"; // Fallback image
 
         episodesHtml += `
             <div style="display: flex; align-items: center; gap: 15px;">
