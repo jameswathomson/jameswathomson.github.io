@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://jameswathomson.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://jameswathomson.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-04-30T02:11:59+00:00</updated><id>https://jameswathomson.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">#guts2025 | James Thomson</title><link href="https://jameswathomson.github.io/blog/2025/guts2025-james-thomson/" rel="alternate" type="text/html" title="#guts2025 | James Thomson"/><published>2025-03-30T00:00:00+00:00</published><updated>2025-03-30T00:00:00+00:00</updated><id>https://jameswathomson.github.io/blog/2025/guts2025--james-thomson</id><content type="html" xml:base="https://jameswathomson.github.io/blog/2025/guts2025-james-thomson/"><![CDATA[<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>          Agree &amp; Join LinkedIn
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://jameswathomson.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://jameswathomson.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-04-30T15:51:52+00:00</updated><id>https://jameswathomson.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">my initial (proper) experience with GitPages</title><link href="https://jameswathomson.github.io/blog/2025/gitpages/" rel="alternate" type="text/html" title="my initial (proper) experience with GitPages"/><published>2025-04-30T14:24:00+00:00</published><updated>2025-04-30T14:24:00+00:00</updated><id>https://jameswathomson.github.io/blog/2025/gitpages</id><content type="html" xml:base="https://jameswathomson.github.io/blog/2025/gitpages/"><![CDATA[<p>I'd used GitPages previously but never with any proper structure. I decided to move my site here as I had been convinced by this Spencer Pao video from 2022 that using a Jekyll template I could create a blog-like site</p> <iframe width="640" height="360" src="https://www.youtube.com/watch?v=g6AJ9qPPoyc" frameborder="0" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="sample-posts"/><category term="web-dev"/><summary type="html"><![CDATA[To start the posts]]></summary></entry><entry><title type="html">#guts2025 | James Thomson</title><link href="https://jameswathomson.github.io/blog/2025/guts2025-james-thomson/" rel="alternate" type="text/html" title="#guts2025 | James Thomson"/><published>2025-03-30T00:00:00+00:00</published><updated>2025-03-30T00:00:00+00:00</updated><id>https://jameswathomson.github.io/blog/2025/guts2025--james-thomson</id><content type="html" xml:base="https://jameswathomson.github.io/blog/2025/guts2025-james-thomson/"><![CDATA[<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>          Agree &amp; Join LinkedIn
         
   By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
 
@@ -6,7 +6,7 @@
         What the future of Engineering could hold, from #GUTS2025
     To view or add a comment, sign in
 
-        718 followers
+        719 followers
       
               Create your free account or sign in to continue your search
             
@@ -96,4 +96,77 @@
   By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
 
     New to LinkedIn? Join now
-</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[I have had a fair few jobs in my time, in industry and also in education over the last 20 years. People come to FE for a number of reasons.]]></summary></entry></feed>
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[I have had a fair few jobs in my time, in industry and also in education over the last 20 years. People come to FE for a number of reasons.]]></summary></entry><entry><title type="html">a post with custom blockquotes</title><link href="https://jameswathomson.github.io/blog/2023/custom-blockquotes/" rel="alternate" type="text/html" title="a post with custom blockquotes"/><published>2023-05-12T19:53:00+00:00</published><updated>2023-05-12T19:53:00+00:00</updated><id>https://jameswathomson.github.io/blog/2023/custom-blockquotes</id><content type="html" xml:base="https://jameswathomson.github.io/blog/2023/custom-blockquotes/"><![CDATA[<p>This post shows how to add custom styles for blockquotes. Based on <a href="https://github.com/sighingnow/jekyll-gitbook">jekyll-gitbook</a> implementation.</p> <p>We decided to support the same custom blockquotes as in <a href="https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html">jekyll-gitbook</a>, which are also found in a lot of other sites’ styles. The styles definitions can be found on the <a href="https://github.com/alshedivat/al-folio/blob/main/_sass/_base.scss">_base.scss</a> file, more specifically:</p> <div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">/* Tips, warnings, and dangers */</span>
+<span class="nc">.post</span> <span class="nc">.post-content</span> <span class="nt">blockquote</span> <span class="p">{</span>
+  <span class="k">&amp;</span><span class="nc">.block-tip</span> <span class="p">{</span>
+    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block</span><span class="p">);</span>
+    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-bg</span><span class="p">);</span>
+
+    <span class="nt">p</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-text</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="nt">h1</span><span class="o">,</span>
+    <span class="nt">h2</span><span class="o">,</span>
+    <span class="nt">h3</span><span class="o">,</span>
+    <span class="nt">h4</span><span class="o">,</span>
+    <span class="nt">h5</span><span class="o">,</span>
+    <span class="nt">h6</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-title</span><span class="p">);</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+
+  <span class="k">&amp;</span><span class="nc">.block-warning</span> <span class="p">{</span>
+    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block</span><span class="p">);</span>
+    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-bg</span><span class="p">);</span>
+
+    <span class="nt">p</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-text</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="nt">h1</span><span class="o">,</span>
+    <span class="nt">h2</span><span class="o">,</span>
+    <span class="nt">h3</span><span class="o">,</span>
+    <span class="nt">h4</span><span class="o">,</span>
+    <span class="nt">h5</span><span class="o">,</span>
+    <span class="nt">h6</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-title</span><span class="p">);</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+
+  <span class="k">&amp;</span><span class="nc">.block-danger</span> <span class="p">{</span>
+    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block</span><span class="p">);</span>
+    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-bg</span><span class="p">);</span>
+
+    <span class="nt">p</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-text</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="nt">h1</span><span class="o">,</span>
+    <span class="nt">h2</span><span class="o">,</span>
+    <span class="nt">h3</span><span class="o">,</span>
+    <span class="nt">h4</span><span class="o">,</span>
+    <span class="nt">h5</span><span class="o">,</span>
+    <span class="nt">h6</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-title</span><span class="p">);</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div> <p>A regular blockquote can be used as following:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; This is a regular blockquote</span>
+<span class="gt">&gt; and it can be used as usual</span>
+</code></pre></div></div> <blockquote> <p>This is a regular blockquote and it can be used as usual</p> </blockquote> <p>These custom styles can be used by adding the specific class to the blockquote, as follows:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### TIP</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; A tip can be used when you want to give advice</span>
+<span class="gt">&gt; related to a certain content.</span>
+{: .block-tip }
+</code></pre></div></div> <blockquote class="block-tip"> <h5 id="tip">TIP</h5> <p>A tip can be used when you want to give advice related to a certain content.</p> </blockquote> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### WARNING</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; This is a warning, and thus should</span>
+<span class="gt">&gt; be used when you want to warn the user</span>
+{: .block-warning }
+</code></pre></div></div> <blockquote class="block-warning"> <h5 id="warning">WARNING</h5> <p>This is a warning, and thus should be used when you want to warn the user</p> </blockquote> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### DANGER</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; This is a danger zone, and thus should</span>
+<span class="gt">&gt; be used carefully</span>
+{: .block-danger }
+</code></pre></div></div> <blockquote class="block-danger"> <h5 id="danger">DANGER</h5> <p>This is a danger zone, and thus should be used carefully</p> </blockquote> ]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="blockquotes"/><summary type="html"><![CDATA[an example of a blog post with custom blockquotes]]></summary></entry></feed>

@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-guts2025-james-thomson",
+        },{id: "post-my-initial-proper-experience-with-gitpages",
+        
+          title: "my initial (proper) experience with GitPages",
+        
+        description: "To start the posts",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/gitpages/";
+          
+        },
+      },{id: "post-guts2025-james-thomson",
         
           title: '#guts2025 | James Thomson <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -82,6 +93,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://www.linkedin.com/pulse/nurturing-nurturers-health-well-being-further-james-thomson-lbcle/?trackingId=4AjdKcZqq3kgf076Om0EzQ%3D%3D", "_blank");
+          
+        },
+      },{id: "post-a-post-with-custom-blockquotes",
+        
+          title: "a post with custom blockquotes",
+        
+        description: "an example of a blog post with custom blockquotes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/custom-blockquotes/";
           
         },
       },{id: "books-the-godfather",
