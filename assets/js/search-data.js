@@ -51,26 +51,37 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-guts2025-james-thomson",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '#guts2025 | James Thomson <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "What the future of Engineering could hold, from #GUTS2025",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+            window.open("https://www.linkedin.com/posts/jameswathomson_guts2025-activity-7309238842916524034-Clp_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASDVlIB_xXd-HtraqqxZy0zIubxq17kfHI", "_blank");
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+      },{id: "post-embracing-ai-redefining-education-for-a-collaborative-future",
         
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Embracing AI: Redefining Education for a Collaborative Future <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Some years ago I took a short online course called &#39;The Mind is Flat&#39; which proposes that much of our behavior, thoughts, and feelings are shaped by external influences and immediate contexts, we basically learn from the available surroundings. Back in the early 80&#39;s when I was first at college our",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+            window.open("https://www.linkedin.com/pulse/embracing-ai-redefining-education-collaborative-future-james-thomson-s0mle/", "_blank");
+          
+        },
+      },{id: "post-nurturing-the-nurturers-health-and-well-being-in-further-education",
+        
+          title: 'Nurturing the Nurturers: Health and Well-being in Further Education <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "I have had a fair few jobs in my time, in industry and also in education over the last 20 years. People come to FE for a number of reasons.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/pulse/nurturing-nurturers-health-well-being-further-james-thomson-lbcle/?trackingId=4AjdKcZqq3kgf076Om0EzQ%3D%3D", "_blank");
           
         },
       },{id: "books-the-godfather",
