@@ -51,7 +51,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-my-initial-proper-experience-with-gitpages",
+        },{id: "nav-videos",
+          title: "Videos",
+          description: "Videos from my channel &#39;Echoes of Perception&#39;",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/videos/";
+          },
+        },{id: "post-if-it-39-s-not-broken",
+        
+          title: "If it&#39;s not broken...",
+        
+        description: "1970s Technology, does it hold up?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/old-vs-new-speakers/";
+          
+        },
+      },{id: "post-my-initial-proper-experience-with-gitpages",
         
           title: "my initial (proper) experience with GitPages",
         
