@@ -12,11 +12,9 @@ nav_order: 7
 async function fetchYouTubeVideos() {
     const rssFeedUrl = "https://www.youtube.com/feeds/videos.xml?channel_id=UCgR7VDoJ12cH20DskSd9CLA";
     const parser = new RSSParser();
-
     try {
         const feed = await parser.parseURL(rssFeedUrl);
         let videosHtml = "";
-
         feed.items.forEach(video => {
             const videoId = video.link.split("v=")[1]; // Extract video ID from URL
             videosHtml += `
@@ -26,15 +24,12 @@ async function fetchYouTubeVideos() {
                 </div>
             `;
         });
-
         document.getElementById("video-container").innerHTML = videosHtml;
     } catch (error) {
         console.error("Error fetching RSS feed:", error);
         document.getElementById("video-container").innerHTML = "<p>Error loading videos. Try again later.</p>";
     }
 }
-
 fetchYouTubeVideos();
 </script>
-
 <div id="video-container"></div>
