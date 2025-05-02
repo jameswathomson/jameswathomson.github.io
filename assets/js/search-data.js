@@ -129,10 +129,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-original-jamesthomson-org-uk-is-launched-using-adobe-flash-and-actionscript-3-i-wanted-to-create-an-interactive-website-that-showcased-my-39-skills-39-if-flash-and-actionscript-as-i-was-teaching-it-at-the-time-on-the-btec-level-3-graphics-and-interactive-media-course-here-are-some-screens-from-the-original-site-i-39-m-still-impressed-when-i-see-it-running-using-something-like-ruffle-home-page-including-day-night-cycle-with-rising-falling-sun-and-moon-growing-grass-that-would-be-periodically-cut-by-a-lawnmower-and-birds-animation-across-the-sky-about-as-i-was-struggling-at-the-time-to-get-a-full-time-teaching-job-it-took-on-a-morbid-theme-nigh-falls-and-a-set-of-3-gravestones-rise-from-the-earth-contact-page-a-telephone-box-of-course-and-the-links-on-a-signpost-the-gallery-split-into-stills-moving-games-and-student-work-the-exit-took-you-back-to-outside-the-building",
-          title: 'The original jamesthomson.org.uk is launched using Adobe Flash and ActionScript 3 I wanted...',
+            },},{id: "news-the-original-adobe-flash-version-of-jamesthomson-org-uk",
+          title: 'The original Adobe Flash version of Jamesthomson.org.uk',
           description: "",
-          section: "News",},{id: "news-page-migration-to-github-version-2",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-page-migration-to-github-version-2",
           title: 'Page migration to GitHub - Version 2',
           description: "",
           section: "News",handler: () => {
