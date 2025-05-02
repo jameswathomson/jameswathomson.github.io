@@ -11,16 +11,16 @@ Recently my daughter developed a keen urge to buy a turntable and some vinyl, an
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://www.diyaudio.com/forums/attachments/multi-way/323189d1357929498-celestion-ditton-44-sounding-muddy-celestion_ditton_44-loudspeakers-speaker-002-jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://www.diyaudio.com/forums/attachments/multi-way/323189d1357929498-celestion-ditton-44-sounding-muddy-celestion_ditton_44-loudspeakers-speaker-002-jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Technics_SL-1200MK2-2.jpg/1200px-Technics_SL-1200MK2-2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Technics_SL-1200MK2-2.jpg/1200px-Technics_SL-1200MK2-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://i.redd.it/h04oiddwrdy61.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://i.redd.it/h04oiddwrdy61.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://i.ebayimg.com/images/g/nnkAAOSwX~Fm0LbB/s-l1200.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://i.ebayimg.com/images/g/nnkAAOSwX~Fm0LbB/s-l1200.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
