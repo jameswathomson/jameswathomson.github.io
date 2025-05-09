@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-videos",
           title: "Videos",
-          description: "Videos from my channel &#39;Echoes of Perception&#39;",
+          description: "Videos from my channel",
           section: "Navigation",
           handler: () => {
             window.location.href = "/videos/";
