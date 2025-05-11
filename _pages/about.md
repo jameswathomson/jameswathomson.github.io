@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 10 # leave blank to include all the blog posts
 ---
 
 <p><b>Work: </b>An experienced and innovative manager with over a decade of leadership in technology and engineering industries. I combine a strong technical foundation with creative problem-solving, bridging the gap between artistry, technology and engineering to drive impactful solutions.</p>
