@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-if-it-39-s-not-broken",
+        },{id: "post-love-of-music",
+        
+          title: "Love Of Music",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/love-of-music/";
+          
+        },
+      },{id: "post-if-it-39-s-not-broken",
         
           title: "If it&#39;s not broken...",
         
