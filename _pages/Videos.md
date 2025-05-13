@@ -40,7 +40,7 @@ nav_order: 7
 
 <div class="video-section">
   <div class="video-card">
-    <a href="https://www.youtube.com/@sagoth66">
+    <a href="https://www.youtube.com/@JamieTLens">
       <img src="https://yt3.ggpht.com/O8MjwLGwaFaP18x6U52n9YsxmLGCITh2lCD5oXli5CSA0Q34MsJosfuxwQgbSMyi-MZNQcEKnw=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="Sagoth66 Channel">
     </a>
     <p>The original channel has been going for a long time and is mostly gig videos I have filmed for local bands.</p>
