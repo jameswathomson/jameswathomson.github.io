@@ -58,11 +58,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-love-of-music",
+        },{id: "post-music",
         
-          title: "Love Of Music",
+          title: "Music",
         
-        description: "",
+        description: "Musical Therapy",
         section: "Posts",
         handler: () => {
           
