@@ -6,7 +6,13 @@ inline: false
 related_posts: false
 spotifyplaylist: spotify/playlist/2EaEBAnPzl6ahvNBk4TmhJ
 ---
-
+<style>
+    h4 {
+       padding-top:  10px;
+       margin-bottom: 5px;
+       color: Cornflowerblue;
+    }
+</style>
 I like a very broad range of music, some comes from my youth, some I have picked up over the years and some are very current but all are great tunes. I will update this periodically.
 
 Here's my current favourite songs to listen to (no particular order):
