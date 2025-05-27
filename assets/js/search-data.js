@@ -58,9 +58,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-if-it-39-s-not-broken",
+        },{id: "post-the-horror-of-health-creep",
         
-          title: "If it&#39;s not broken...",
+          title: "The horror of health creep",
         
         description: "Navigating whole body health",
         section: "Posts",
