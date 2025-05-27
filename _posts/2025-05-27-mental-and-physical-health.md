@@ -78,4 +78,4 @@ If the answers to any of the above are **no** then you need to make the change
 
 - Make sure you have enough time away each day to properly relax, no input other than the sound of your own thoughts, or some decent progressive rock playing.
 
-Life should not be a constant struggle, only you have the power to make of it what you will. Think about the free time you have in the evening, maybe you jump on your socials before bed, maybe a final check of those emails, <b>STOP</b> and give yourself some headspace. Reflect on 
+Life should not be a constant struggle, only you have the power to make of it what you will. Think about the free time you have in the evening, maybe you jump on your socials before bed, maybe a final check of those emails, <b>STOP</b> and give yourself some headspace. 
