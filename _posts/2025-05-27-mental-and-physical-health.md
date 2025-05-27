@@ -38,7 +38,7 @@ Into Teaching
 
 I had worked for several years in industry, Computing, Electronics, Design and Manufacturing and was used to clocking on and off, not necessarily physically but my work was around a standard shift pattern mostly around the standard 9-5. What this gives you is a definitive time to switch on and off from work. I would sometimes use spare time to upskill but generally work left my mind when I left my workplace.
 
-<img title="" src="https://live.staticflickr.com/1913/44948978001_723a3c3f64_b.jpg" alt=" " width="270" style="float: left;">
+<img title="" src="https://live.staticflickr.com/1913/44948978001_723a3c3f64_b.jpg" alt=" " width="270">
 
 Teaching is a very different profession, education involves continuous improvement of practice and resources which can eat away at your work-life balance. I quickly went from trainee to full-time teacher and then to manager with teaching responsibility. The added responsibility for hundreds of people, taken seriously, can take away most evenings and weekends and whilst the job is advertised at 37 hours or so it can be an impossible task to do in that time. I am very conscientious and so tend to want to give as much time as is needed.
 
@@ -46,7 +46,7 @@ Teaching is a very different profession, education involves continuous improveme
 The Balancing Act
 </h2>
 
-<img title="" src="https://i.pinimg.com/474x/0d/af/01/0daf01cf397aaef87de547e3df75c235.jpg" alt=" " style="float: left;">
+<img title="" src="https://i.pinimg.com/474x/0d/af/01/0daf01cf397aaef87de547e3df75c235.jpg" alt=" " >
 
 Juggling a challenging career and family life can be a real balancing act, we often talk about work-life balance being important but when we say 'life' what do we actually mean? Yes it's relationships, personal time and hobbies but also health and well-being. A fulfilling career can help with your mental and physical health but you can also have too much of a 'good' thing. We are naturally curious creatures which does lead to always requiring some form of input. This can be constructive such as learning from a video, researching online or something as simple as watching TV or scolling through the socials. We also need periods of thought and reflection, a busy schedule can often push this time out. At my busiest, days can be stacked with work and social life, and time to truly rest only comes in a shortened period of sleep.
 
@@ -56,13 +56,13 @@ Taking back control
 
 There comes a time when your body will tell you that it's had enough. It may be that you have an early night or a good lie in on a weekend but more seriously health-related toll on the body can be stress, weight, blood pressure and sugar. This won't happen overnight but, as I've been told from a health professional, it will get you in the end. This is not to say that you can't wind the clock back and recover however some do not get the opportunity to make the right changes so it is important to be wary of the health 'creep' that can happen over time.
 
-<img title="" src="https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/63cfc01385bb985d61ce9c05_mental-health-quotes-take-care-2.jpg" alt=" " width="627" style="float: left;">
+<img title="" src="https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/63cfc01385bb985d61ce9c05_mental-health-quotes-take-care-2.jpg" alt=" " width="627" >
 
 I love tech and so have several monitors that track my BP, sugar, weight stats (including detail about fat and muscle weight). Having that information to hand at least shows me that hopefully things are going in the right direction physically. I have made time for regular workouts to add to the 2000 calories my body burns up by just existing ([BMR]([BMR Calculator - Metabolism Calculator (Basal Metabolic Rate)](https://www.diabetes.co.uk/bmr-calculator.html)), or Basal Metabolic Rate). It's a simple calculation, if I take in more than I burn up then I will put weight on whereas keeping lower than the amount I burn will make my weight drop. There are other factors such as water retention and muscles but the point stands.
 
 Mental health needs time and peer support including from your workplace
 
-<img title="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20AlV5LBPq4QQwqZSPVjXpQ8UihO3pX729g&s" alt=" " style="float: left;" width="479">
+<img title="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20AlV5LBPq4QQwqZSPVjXpQ8UihO3pX729g&s" alt=" "  width="479">
 
 as you are no good to them if you're not physically and mentally up to the task. Any decent employer will want the best of you and will do all they can to support that to happen, in turn you will rightly give them 100% committment. A balanced life should involve a challenging but rewarding career that has no negative impact beyond the workplace hours. Stress is your body's natural reaction to feeling threatened, pressured, or overwhelmed and in the short-term it can be helpful boosting focus and energy, however long-term stress can lead to physical and mental exhaustion. You can limit stress in two ways,  reducing the issues causing it and regulating your body's reaction to it through [meditation]([How to meditate for beginners - Mental wellbeing tips - Every Mind Matters - NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-meditate-for-beginners/#:~:text=By%20releasing%20physical%20tension%20held,get%20deeper%2C%20more%20restful%20sleep.)), physical activity (through [endorphins](https://www.health.harvard.edu/mind-and-mood/endorphins-the-brains-natural-pain-reliever)) and quality [sleep](https://www.bannerhealth.com/healthcareblog/teach-me/how-sleep-can-affect-stress).
 
