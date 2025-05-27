@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-music",
+        },{id: "post-if-it-39-s-not-broken",
+        
+          title: "If it&#39;s not broken...",
+        
+        description: "Navigating whole body health",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/mental-and-physical-health/";
+          
+        },
+      },{id: "post-music",
         
           title: "Music",
         
