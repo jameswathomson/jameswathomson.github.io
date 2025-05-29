@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-cooking",
-          title: "Cooking",
-          description: "Food I like to eat and some of it I can cook, I have simple tastes.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cooking/";
-          },
         },{id: "nav-projects",
           title: "Projects",
           description: "A growing collection of your cool projects.",
@@ -58,7 +51,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-the-horror-of-health-creep",
+        },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
+        
+          title: "Becoming a Genealogist - Getting Started with Ancestry",
+        
+        description: "Getting Started with Ancestry, why I decided to create a family tree, how to start, the pitfalls and benefits",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/an-introduction-to-genealogy/";
+          
+        },
+      },{id: "post-haze-the-waters-edge-review",
+        
+          title: "Haze - The Waters Edge Review",
+        
+        description: "Review of the 2024 studio album by Haze from Sheffield",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/haze-the-waters-edge/";
+          
+        },
+      },{id: "post-the-horror-of-health-creep",
         
           title: "The horror of health creep",
         
@@ -69,9 +84,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/mental-and-physical-health/";
           
         },
-      },{id: "post-music",
+      },{id: "post-my-love-of-music",
         
-          title: "Music",
+          title: "My Love of Music",
         
         description: "Musical Therapy",
         section: "Posts",
@@ -133,17 +148,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://www.linkedin.com/pulse/nurturing-nurturers-health-well-being-further-james-thomson-lbcle/?trackingId=4AjdKcZqq3kgf076Om0EzQ%3D%3D", "_blank");
-          
-        },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/custom-blockquotes/";
           
         },
       },{id: "books-the-godfather",
