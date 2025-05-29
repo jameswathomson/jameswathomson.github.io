@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Music
+title: My Love of Music
 date: 2025-05-11 16:40:16
 description: Musical Therapy
-tags: music
-categories: General-Music
+tags: general-music
+categories: music
 spotifyplaylist: spotify/playlist/02ye9QUTVKOTsMpcDupoPh?si=231c1ee9d416449f
+thumbnail: https://i0.wp.com/stimpunks.org/wp-content/uploads/2022/12/6947226867_99e2b0a0d7_k.jpg?resize=1024%2C686&quality=89&ssl=1
 ---
 
 <p>I absolutely love music, I could listen to it all day every day. In fact I usually do as when it's not playing through a speaker of some sort it just carries on playing through my head.<p>

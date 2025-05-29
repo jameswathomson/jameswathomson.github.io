@@ -16,23 +16,35 @@ layout: default
   </header>
 
   <article class="archive">
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        {% for document in page.documents %}
-          <tr>
-            <th scope="row">{{ document.date | date: '%b %d, %Y' }}</th>
-            <td>
-              {% if document.redirect == blank %}
-                <a class="post-link" href="{{ document.url | relative_url }}">{{ document.title }}</a>
-              {% elsif document.redirect contains '://' %}
-                <a class="post-link" href="{{ document.redirect }}" target="_blank">{{ document.title }}</a>
-              {% else %}
-                <a class="post-link" href="{{ document.redirect | relative_url }}">{{ document.title }}</a>
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      {% for document in page.documents %}
+        <tr>
+          <th scope="row">{{ document.date | date: '%b %d, %Y' }}</th>
+          <td>
+            <div class="d-flex align-items-start">
+              {% if document.thumbnail %}
+                <img src="{{ document.thumbnail }}" alt="Thumbnail for {{ document.title }}" class="me-2" style="max-width: 150px; height: auto; margin-right: 20px;">
               {% endif %}
-            </td>
-          </tr>
-        {% endfor %}
-      </table>
-    </div>
-  </article>
+              <div>
+                {% if document.redirect == blank %}
+                  <a class="post-link" href="{{ document.url | relative_url }}">{{ document.title }}</a>
+                {% elsif document.redirect contains '://' %}
+                  <a class="post-link" href="{{ document.redirect }}" target="_blank">{{ document.title }}</a>
+                {% else %}
+                  <a class="post-link" href="{{ document.redirect | relative_url }}">{{ document.title }}</a>
+                {% endif %}
+
+                {% if document.description %}
+                  <div class="small text-muted">{{ document.description }}</div>
+                {% endif %}
+              </div>
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+</article>
+
 </div>

@@ -1,24 +1,21 @@
 ---
 layout: post
-title: Haze - The Water's Edge Review
-date: 2025-05-29 16:40:16
+title: Haze - The Waters Edge Review
+date: 2025-05-28 10:40:16
 description: Review of the 2024 studio album by Haze from Sheffield
-tags: 
-    - Progressive Rock
-    - Folk Rock
-    - 2024
-categories:
-    - Music
-    - Album Reviews    
+tags: ['progressive-rock', 'folk-rock', '2024']
+categories: ['music', 'album reviews']
+spotifyalbum: 1l8ICgTG4aZCTfo2oScf8x?si=qySohqlNS9CoqBnsrvIKQg   
+thumbnail: https://f4.bcbits.com/img/a2378762445_10.jpg
 ---
 
-![ ](https://f4.bcbits.com/img/a2378762445_10.jpg)
+<img title="" src="https://f4.bcbits.com/img/a2378762445_10.jpg" alt=" " data-align="inline" width="650">
 
 The band Haze have been around for 46 years as of this release and have a rich history of quality releases but do tend to incorporate ideas from their history so rather than suggest this album has been coming for 4 years since the last release “Back to the Bones” you could suggest it has been much longer in the making. Haze also have no fear in playing tracks live before recording them so fans have seen these evolve. Here I review their latest album “The Water’s Edge”
 
 Haze themselves are a band of fluid genres. They can progressively rock it out with the best of them, always have time for a ballad and can call upon folk influences when needed. Here’s some short track reviews. Detail on each song including lyrics can be found [here](https://www.gabadon.co.uk/thewatersedge.html)
 
-<iframe src="https://open.spotify.com/album/1l8ICgTG4aZCTfo2oScf8x?si=lofFgQCWS7uLc77QYhJd2g" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{% include spotifyalbum.html id=page.spotifyalbum %}
 
 **Flight Behaviour**
 
@@ -60,6 +57,6 @@ This really is an album full of what makes Haze special, they can pull off a num
 
 Check out Haze playing the album live here 
 
-![ ](https://i.ytimg.com/vi/cfux4mDPTVs/maxresdefault.jpg)
+<img src="https://i.ytimg.com/vi/cfux4mDPTVs/maxresdefault.jpg" title="" alt=" " width="661">
 
 [Set 1 ]([Haze 46th Anniversary Show Part 1 - YouTube](https://www.youtube.com/watch?v=cfux4mDPTVs))

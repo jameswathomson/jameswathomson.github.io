@@ -3,7 +3,7 @@ layout: page
 permalink: /cooking/
 title: Cooking
 description: Food I like to eat and some of it I can cook, I have simple tastes.
-nav: true
+nav: false
 nav_order: 2
 ---
 

@@ -3,8 +3,9 @@ layout: post
 title: If it's not broken...
 date: 2025-04-30 16:40:16
 description: 1970s Technology, does it hold up?
-tags: technology
-categories: sample-posts
+tags: ['hi-fi', 'retro']
+categories: ['music', 'technology']
+thumbnail: https://www.diyaudio.com/forums/attachments/multi-way/323189d1357929498-celestion-ditton-44-sounding-muddy-celestion_ditton_44-loudspeakers-speaker-002-jpg
 ---
 
 Recently my daughter developed a keen urge to buy a turntable and some vinyl, and then asked me how much I may have stored away. This ended up with me bringing 5 boxes down from the loft, and at some point my own turntable when I find it. I now also have been given some excellent 1970s speakers which I will hopefully attach to a 1970's amplifier and 1970's cassette deck, and 1990's turntable.

@@ -29,6 +29,7 @@ pagination:
   </div>
   {% endif %}
 
+{% comment %}
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
@@ -55,6 +56,43 @@ pagination:
     </ul>
   </div>
   {% endif %}
+  {% endcomment %}
+<p>
+<p></p>
+Tags: 
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
+    <a href="/blog/tag/{{ tag[0] }}/">
+        {{ tag[0] }}
+    </a>{% unless forloop.last %} | {% endunless %}
+    {% endfor %}
+</p>
+<p>
+Categories: 
+    {% assign sorted_categories = site.categories | sort %}
+    {% for category in sorted_categories %}
+    <a href="/blog/category/{{ category[0] | slugify }}/">
+        {{ category[0] }}
+    </a>{% unless forloop.last %} | {% endunless %}
+    {% endfor %}
+</p>
+<p>
+{% assign years = "" | split: "" %}
+Years:
+{% for post in site.posts %}
+  {% assign year = post.date | date: "%Y" %}
+  {% unless years contains year %}
+    {% assign years = years | push: year %}
+  {% endunless %}
+{% endfor %}
+
+{% assign sorted_years = years | sort | reverse %}
+
+{% for year in sorted_years %}
+    <a href="/blog/{{ year }}/">{{ year }}</a>{% unless forloop.last %} | {% endunless %}
+{% endfor %}
+</p>
+
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
@@ -179,7 +217,7 @@ pagination:
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: contain; height: 150px" alt="image">
   </div>
 </div>
 {% endif %}

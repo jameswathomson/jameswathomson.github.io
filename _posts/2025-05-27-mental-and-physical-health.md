@@ -3,9 +3,9 @@ layout: post
 title: The horror of health creep
 date: 2025-05-27 16:40:16
 description: Navigating whole body health
-tags: health
-categories: posts
-
+tags: ['mental-health', 'physical-health', 'stress', 'work-life-balance']
+categories: health
+thumbnail: https://clipart-library.com/img/83576.jpg
 ---
 
 Have you ever wondered why you aren't feeling as physically and mentally as good as before? You might be suffering from from health creep.

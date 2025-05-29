@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Becoming a Genealogist - Getting Started with Ancestry
-date: 2025-05-29 16:40:16
-description: Getting Started with Ancestry
+date: 2025-05-28 12:40:16
+description: Getting Started with Ancestry, why I decided to create a family tree, how to start, the pitfalls and benefits
 tags: genealogy
 categories: posts
-
+thumbnail: https://thinktv.org/wp-content/uploads/2020/05/Edited-FamilyTree-1-724x1024.png 
 ---
 
 ![](https://img.freepik.com/premium-vector/hand-drawn-family-tree-illustrated_23-2149142546.jpg)
