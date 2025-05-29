@@ -4,8 +4,8 @@ title: Haze - The Water's Edge Review
 date: 2025-05-29 16:40:16
 description: Review of the 2024 studio album by Haze from Sheffield
 tags: 
-    - Rock
-    - Folk
+    - Progressive Rock
+    - Folk Rock
     - 2024
 categories:
     - Music
