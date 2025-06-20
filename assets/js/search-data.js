@@ -117,9 +117,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/gitpages/";
           
         },
-      },{id: "post-guts2025-james-thomson",
+      },{id: "post-what-the-future-of-engineering-could-hold-from-guts2025-james-thomson",
         
-          title: '#guts2025 | James Thomson <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What the future of Engineering could hold, from #GUTS2025 | James Thomson <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "What the future of Engineering could hold, from #GUTS2025",
         section: "Posts",
