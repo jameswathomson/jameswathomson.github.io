@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "14/11/26 SWFC 3-0 Plymouth: Here we go. Goals and hot water"
