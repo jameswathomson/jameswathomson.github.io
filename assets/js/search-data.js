@@ -53,9 +53,9 @@ ninja.data = [{
           },
         },{id: "post-14-11-26-swfc-3-0-plymouth-here-we-go-goals-and-hot-water",
         
-          title: "14/11/26 SWFC 3-0 Plymouth: Here we go. Goals and hot water",
+          title: "14 11 26 Swfc 3 0 Plymouth Here We Go Goals And Hot...",
         
-        description: "What a great performance from the owls as the season starts here under Challinor",
+        description: "",
         section: "Posts",
         handler: () => {
           
