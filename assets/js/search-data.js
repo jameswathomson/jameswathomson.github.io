@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
+        },{id: "post-14-11-26-swfc-3-0-plymouth-here-we-go-goals-and-hot-water",
+        
+          title: "14/11/26 SWFC 3-0 Plymouth: Here we go. Goals and hot water",
+        
+        description: "What a great performance from the owls as the season starts here under Challinor",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/14-11-26-swfc-3-0-plymouth-here-we-go-goals-and-hot-water/";
+          
+        },
+      },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
         
@@ -117,9 +128,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/gitpages/";
           
         },
-      },{id: "post-what-the-future-of-engineering-could-hold-from-guts2025-james-thomson",
+      },{id: "post-guts2025-james-thomson",
         
-          title: 'What the future of Engineering could hold, from #GUTS2025 | James Thomson <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '#guts2025 | James Thomson <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "What the future of Engineering could hold, from #GUTS2025",
         section: "Posts",
