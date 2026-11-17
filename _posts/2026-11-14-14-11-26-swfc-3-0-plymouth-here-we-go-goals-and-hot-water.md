@@ -6,6 +6,7 @@ description: What a great performance from the owls as the season starts here un
 tags: sheffield-wednesday
 categories: podcast
 podcast_guid: 8c888226-f6e3-4f8c-bd96-6cb96599cea0
+giscus_comments: true
 ---
 
 <img src="/assets/img/five-minute-view-banner.png" alt="Five Minute View From The Kop" style="width: 100%; height: auto;">
