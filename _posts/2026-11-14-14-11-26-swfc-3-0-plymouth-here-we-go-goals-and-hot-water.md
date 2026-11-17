@@ -5,6 +5,7 @@ date: 2026-11-14 17:22:06
 description: What a great performance from the owls as the season starts here under Challinor
 tags: sheffield-wednesday
 categories: podcast
+podcast_guid: 8c888226-f6e3-4f8c-bd96-6cb96599cea0
 ---
 
 <img src="/assets/img/five-minute-view-banner.png" alt="Five Minute View From The Kop" style="width: 100%; height: auto;">
