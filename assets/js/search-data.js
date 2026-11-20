@@ -106,6 +106,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/27-10-26-swfc-1-1-cambridge-baby-steps-forward/";
           
         },
+      },{id: "post-24-10-26-doncaster-2-0-swfc-sideways-and-backwards",
+        
+          title: "24/10/26 Doncaster 2-0 SWFC: Sideways and backwards",
+        
+        description: "The owls regress further with a hapless performance against Doncaster Rovers. Arse and elbow come to mind",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/24-10-26-doncaster-2-0-swfc-sideways-and-backwards/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
