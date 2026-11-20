@@ -84,6 +84,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/11-11-26-swfc-0-4-accrington-lambs-to-the-slaughter/";
           
         },
+      },{id: "post-01-11-26-swfc-1-1-blackpool-handball",
+        
+          title: "01/11/26 SWFC 1-1 Blackpool: Handball!",
+        
+        description: "A new dawn, a spirited display but ultimately the owls shot themselves in the feet",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/01-11-26-swfc-1-1-blackpool-handball/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
