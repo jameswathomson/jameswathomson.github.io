@@ -150,6 +150,28 @@ ninja.data = [{
             window.location.href = "/blog/2026/10-10-26-huddersfield-2-2-swfc-owls-get-out-of-jail/";
           
         },
+      },{id: "post-06-10-26-swfc-2-0-sunderland-u21-enough-as-owls-play-to-the-opposition",
+        
+          title: "06/10/26 SWFC 2-0 Sunderland U21: Enough as Owls play to the opposition",
+        
+        description: "The owls keep up at the top of the division in the Jersey Mike&#39;s trophy with a display short of comfortable but enough",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/06-10-26-swfc-2-0-sunderland-u21-enough-as-owls-play-to-the-opposition/";
+          
+        },
+      },{id: "post-22-09-26-salford-1-2-swfc-a-game-of-two-halves",
+        
+          title: "22 09 26 Salford 1 2 Swfc A Game Of Two Halves",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/22-09-26-salford-1-2-swfc-a-game-of-two-halves/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
