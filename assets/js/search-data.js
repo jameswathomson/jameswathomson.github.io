@@ -95,6 +95,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/01-11-26-swfc-1-1-blackpool-handball/";
           
         },
+      },{id: "post-27-10-26-swfc-1-1-cambridge-baby-steps-forward",
+        
+          title: "27/10/26 SWFC 1-1 Cambridge: Baby steps forward",
+        
+        description: "Managerless Sheffield Wednesday took a little bit of a step forward by getting a draw against 6th place Cambridge United. An improved performance and something to build on for the new manager",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/27-10-26-swfc-1-1-cambridge-baby-steps-forward/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
