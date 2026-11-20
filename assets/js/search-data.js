@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/2026-11-08-08-11-26-oldham-2-1-swfc-aet-same-old-owls/";
           
         },
+      },{id: "post-20-11-26-barnsley-1-2-swfc-not-so-easy-does-it-as-owls-go-third",
+        
+          title: "20/11/26 Barnsley 1-2 SWFC: Not so easy does it as Owls go third...",
+        
+        description: "Sheffield Wednesday made very hard work of a game against almost bottom of the table. Barnsley two early goals and then they clung on and ran out two one winners",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/20-11-26-barnsley-1-2-swfc-not-so-easy-does-it-as-owls-go-third/";
+          
+        },
       },{id: "post-14-11-26-swfc-3-0-plymouth-here-we-go-goals-and-hot-water",
         
           title: "14/11/26 SWFC 3-0 Plymouth: Here we go. Goals and hot water",
