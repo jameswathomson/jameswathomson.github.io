@@ -128,6 +128,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/20-10-26-notts-county-2-0-swfc-a-series-of-unfortunate-events/";
           
         },
+      },{id: "post-17-10-26-swfc-5-0-wimbledon-hawaii-five-o-owls",
+        
+          title: "17/10/26 SWFC 5-0 Wimbledon: Hawaii five-o owls",
+        
+        description: "Never mind Honolulu we were in Hawaii today as everything clicked against the Dons",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/17-10-26-swfc-5-0-wimbledon-hawaii-five-o-owls/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
