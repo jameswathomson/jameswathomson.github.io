@@ -117,6 +117,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/24-10-26-doncaster-2-0-swfc-sideways-and-backwards/";
           
         },
+      },{id: "post-20-10-26-notts-county-2-0-swfc-a-series-of-unfortunate-events",
+        
+          title: "20/10/26 Notts County 2-0 SWFC: A series of unfortunate events",
+        
+        description: "A poor showing away in Nottingham, two sides amongst the oldest in the league but will we ever learn?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/20-10-26-notts-county-2-0-swfc-a-series-of-unfortunate-events/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
