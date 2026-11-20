@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/14-11-26-swfc-3-0-plymouth-here-we-go-goals-and-hot-water/";
           
         },
+      },{id: "post-11-11-26-swfc-0-4-accrington-lambs-to-the-slaughter",
+        
+          title: "11/11/26 SWFC 0-4 Accrington: Lambs to the slaughter",
+        
+        description: "famously the advert said accrington Stanley who are they? well Sheffield Wednesday found out tonight as a very young inexperienced side. got well and truly hammered in the Jersey Mike&#39;s trophy",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/11-11-26-swfc-0-4-accrington-lambs-to-the-slaughter/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
