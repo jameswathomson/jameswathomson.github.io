@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-14-11-26-swfc-3-0-plymouth-here-we-go-goals-and-hot-water",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-11-08-08-11-26-oldham-2-1-swfc-aet-same-old-owls/";
+          
+        },
+      },{id: "post-14-11-26-swfc-3-0-plymouth-here-we-go-goals-and-hot-water",
         
           title: "14/11/26 SWFC 3-0 Plymouth: Here we go. Goals and hot water",
         
