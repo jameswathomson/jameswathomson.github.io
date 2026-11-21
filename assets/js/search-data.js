@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-11-08-08-11-26-oldham-2-1-swfc-aet-same-old-owls/";
-          
-        },
-      },{id: "post-20-11-26-barnsley-1-2-swfc-not-so-easy-does-it-as-owls-go-third",
+        },{id: "post-20-11-26-barnsley-1-2-swfc-not-so-easy-does-it-as-owls-go-third",
         
           title: "20/11/26 Barnsley 1-2 SWFC: Not so easy does it as Owls go third...",
         
@@ -93,6 +82,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/11-11-26-swfc-0-4-accrington-lambs-to-the-slaughter/";
+          
+        },
+      },{id: "post-08-11-26-oldham-2-1-swfc-aet-same-old-owls",
+        
+          title: "08/11/26 Oldham 2-1 SWFC aet: Same old owls",
+        
+        description: "Loads of hype, hope and promises but she old Wednesday as they failed to penetrate the Oldham defence.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/08-11-26-oldham-2-1-swfc-aet-same-old-owls/";
           
         },
       },{id: "post-01-11-26-swfc-1-1-blackpool-handball",
