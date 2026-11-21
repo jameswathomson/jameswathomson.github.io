@@ -194,6 +194,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/19-09-26-swfc-0-0-stockport-promising-a-lot-and-delivering-nothing/";
           
         },
+      },{id: "post-12-09-26-swfc-0-0-wigan-flat-but-still-top",
+        
+          title: "12 09 26 Swfc 0 0 Wigan Flat But Still Top",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/12-09-26-swfc-0-0-wigan-flat-but-still-top/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
