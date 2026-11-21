@@ -205,6 +205,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/12-09-26-swfc-0-0-wigan-flat-but-still-top/";
           
         },
+      },{id: "post-05-09-26-peterborough-1-2-swfc-grinding-out-the-results",
+        
+          title: "05 09 26 Peterborough 1 2 Swfc Grinding Out The Results",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/05-09-26-peterborough-1-2-swfc-grinding-out-the-results/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
