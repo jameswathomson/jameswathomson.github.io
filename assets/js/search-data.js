@@ -216,6 +216,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/05-09-26-peterborough-1-2-swfc-grinding-out-the-results/";
           
         },
+      },{id: "post-01-09-26-wycombe-1-2-swfc-flat-but-still-winning",
+        
+          title: "01 09 26 Wycombe 1 2 Swfc Flat But Still Winning",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/01-09-26-wycombe-1-2-swfc-flat-but-still-winning/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
