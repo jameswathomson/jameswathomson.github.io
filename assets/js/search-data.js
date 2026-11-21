@@ -185,9 +185,9 @@ ninja.data = [{
         },
       },{id: "post-19-09-26-swfc-0-0-stockport-promising-a-lot-and-delivering-nothing",
         
-          title: "19 09 26 Swfc 0 0 Stockport Promising A Lot And Delivering Nothing...",
+          title: "19/09/26 SWFC 0-0 Stockport: Promising a lot and delivering nothing",
         
-        description: "",
+        description: "The owls flattered to deceive against a free scoring Stockport on the game that everyone was expecting goals there wasn&#39;t any",
         section: "Posts",
         handler: () => {
           
