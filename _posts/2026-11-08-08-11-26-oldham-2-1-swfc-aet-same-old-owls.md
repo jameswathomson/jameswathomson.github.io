@@ -3,9 +3,6 @@ layout: post
 title: "08/11/26 Oldham 2-1 SWFC aet: Same old owls"
 date: 2026-11-08 20:03:35
 description: Loads of hype, hope and promises but she old Wednesday as they failed to penetrate the Oldham defence. 
-
-
-edit we are playing Accrington next!
 tags: sheffield-wednesday
 categories: podcast
 podcast_guid: 5d23bcfa-c795-42b3-b2ca-b364546cabfc
