@@ -174,9 +174,9 @@ ninja.data = [{
         },
       },{id: "post-22-09-26-salford-1-2-swfc-a-game-of-two-halves",
         
-          title: "22 09 26 Salford 1 2 Swfc A Game Of Two Halves",
+          title: "22/09/26 Salford 1-2 SWFC: A game of two halves",
         
-        description: "",
+        description: "After a dire first half the owls managed to show quality and turn the game around, coming from behind to win 2-1 in the Football League Trophy against a side who they had never played before",
         section: "Posts",
         handler: () => {
           
