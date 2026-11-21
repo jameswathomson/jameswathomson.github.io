@@ -227,6 +227,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/01-09-26-wycombe-1-2-swfc-flat-but-still-winning/";
           
         },
+      },{id: "post-29-08-26-swfc-7-2-bromley-magnificent-seven-for-super-owls",
+        
+          title: "29 08 26 Swfc 7 2 Bromley Magnificent Seven For Super Owls",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/29-08-26-swfc-7-2-bromley-magnificent-seven-for-super-owls/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
