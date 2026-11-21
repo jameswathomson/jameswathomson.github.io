@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "19/09/26 SWFC 0-0 Stockport: Promising a lot and delivering nothing"
