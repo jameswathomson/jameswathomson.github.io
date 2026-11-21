@@ -260,6 +260,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/15-08-26-leyton-orient-1-2-swfc-sicknote-wednesday-pass-their-first-test/";
           
         },
+      },{id: "post-08-08-26-swfc-1-0-bolton-proud-of-the-boys",
+        
+          title: "08/08/26 SWFC 1-0 Bolton: Proud of the boys",
+        
+        description: "The owls have the perfect response to the Oldham game with a great performance and a win as a bonus",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/08-08-26-swfc-1-0-bolton-proud-of-the-boys/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
