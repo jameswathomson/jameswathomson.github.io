@@ -249,6 +249,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/25-08-26-swfc-0-2-wolverhampton-wanderers-men-against-boys-with-no-plan/";
           
         },
+      },{id: "post-15-08-26-leyton-orient-1-2-swfc-sicknote-wednesday-pass-their-first-test",
+        
+          title: "15/08/26 Leyton Orient 1-2 SWFC: Sicknote Wednesday pass their first test",
+        
+        description: "The team that couldn&#39;t win a game for toffee, the player that couldn&#39;t score. The owls came through the test 2-1 at a trickier than expected Leyton Orient",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/15-08-26-leyton-orient-1-2-swfc-sicknote-wednesday-pass-their-first-test/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
