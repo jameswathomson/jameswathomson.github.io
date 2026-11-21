@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "22/09/26 Salford 1-2 SWFC: A game of two halves"
