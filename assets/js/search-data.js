@@ -238,6 +238,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/29-08-26-swfc-7-2-bromley-magnificent-seven-for-super-owls/";
           
         },
+      },{id: "post-25-08-26-swfc-0-2-wolverhampton-wanderers-men-against-boys-with-no-plan",
+        
+          title: "25/08/26 SWFC 0-2 Wolverhampton Wanderers: Men against boys with no plan",
+        
+        description: "Tough game against a team full of multi million pounds players but did we do enough?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/25-08-26-swfc-0-2-wolverhampton-wanderers-men-against-boys-with-no-plan/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
