@@ -183,6 +183,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/22-09-26-salford-1-2-swfc-a-game-of-two-halves/";
           
         },
+      },{id: "post-19-09-26-swfc-0-0-stockport-promising-a-lot-and-delivering-nothing",
+        
+          title: "19 09 26 Swfc 0 0 Stockport Promising A Lot And Delivering Nothing...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/19-09-26-swfc-0-0-stockport-promising-a-lot-and-delivering-nothing/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
