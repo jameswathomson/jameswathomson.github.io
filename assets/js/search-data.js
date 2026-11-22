@@ -249,6 +249,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/25-08-26-swfc-0-2-wolverhampton-wanderers-men-against-boys-with-no-plan/";
           
         },
+      },{id: "post-20-08-26-swfc-0-1-bradford-substance-over-style-as-the-owls-league-1-honeymoon-is-over",
+        
+          title: "20/08/26 SWFC 0-1 Bradford: Substance over style as the Owls league 1 honeymoon...",
+        
+        description: "Fanfares, fireworks and former players but no magical start to life at home in league 1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/20-08-26-swfc-0-1-bradford-substance-over-style-as-the-owls-league-1-honeymoon-is-over/";
+          
+        },
       },{id: "post-15-08-26-leyton-orient-1-2-swfc-sicknote-wednesday-pass-their-first-test",
         
           title: "15/08/26 Leyton Orient 1-2 SWFC: Sicknote Wednesday pass their first test",
