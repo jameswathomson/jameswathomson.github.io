@@ -370,6 +370,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/11-04-26-coventry-0-0-swfc-david-vs-goliath-how-far-we-ve-come/";
           
         },
+      },{id: "post-06-04-26-swfc-1-1-leicester-owls-stop-the-losses-as-charles-shines",
+        
+          title: "06/04/26 SWFC 1-1 Leicester: Owls stop the losses as Charles shines",
+        
+        description: "The owls were leading for most of the game but given how one sided it was we have to be happy with the result",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/06-04-26-swfc-1-1-leicester-owls-stop-the-losses-as-charles-shines/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
