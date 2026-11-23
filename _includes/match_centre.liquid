@@ -178,7 +178,20 @@ if (!score) {
       sourceTarget.appendChild(a);
     });
   });
+['Match Facts', 'Goalscorers', 'Match Statistics', 'Sources'].forEach(name => {
+  const heading = headings.find(h => h.textContent.trim().toLowerCase() === name.toLowerCase());
 
+  if (!heading) return;
+
+  heading.style.display = 'none';
+
+  let next = heading.nextElementSibling;
+
+  while (next && !/^H[23]$/.test(next.tagName)) {
+    next.style.display = 'none';
+    next = next.nextElementSibling;
+  }
+});
   centre.style.display = 'block';
   content.style.display = 'block';
 });
