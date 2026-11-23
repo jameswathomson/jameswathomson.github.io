@@ -1,0 +1,182 @@
+
+<div class="match-centre" id="match-centre">
+  <div class="mc-heading">MATCH CENTRE</div>
+
+  <div class="mc-details">
+    <div class="mc-detail">
+      <span>COMPETITION</span>
+      <strong id="mc-competition">Competition</strong>
+    </div>
+    <div class="mc-detail">
+      <span>VENUE</span>
+      <strong id="mc-venue">Venue</strong>
+    </div>
+    <div class="mc-detail">
+      <span>ATTENDANCE</span>
+      <strong id="mc-attendance">Attendance</strong>
+    </div>
+  </div>
+
+  <div class="mc-scoreboard">
+    <div class="mc-team mc-home">
+      <strong id="mc-home-team"></strong>
+      <span id="mc-home-score"></span>
+    </div>
+    <div class="mc-score-info">
+      <span>FULL TIME</span>
+      <strong id="mc-full-score"></strong>
+      <small id="mc-half-time"></small>
+    </div>
+    <div class="mc-team mc-away">
+      <strong id="mc-away-team"></strong>
+      <span id="mc-away-score"></span>
+    </div>
+  </div>
+
+  <div class="mc-section" id="mc-goals-section">
+    <h3>GOALSCORERS</h3>
+    <div id="mc-goals"></div>
+  </div>
+
+  <div class="mc-section">
+    <h3>MATCH STATISTICS</h3>
+    <div id="mc-statistics"></div>
+  </div>
+
+  <div class="mc-sources">
+    <h3>SOURCES</h3>
+    <div id="mc-sources"></div>
+  </div>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const content = document.getElementById('markdown-content');
+  const centre = document.getElementById('match-centre');
+
+  if (!content || !centre) return;
+
+  const headings = [...content.querySelectorAll('h2, h3')];
+
+  function section(name) {
+    const heading = headings.find(h => h.textContent.trim().toLowerCase() === name.toLowerCase());
+    if (!heading) return null;
+
+    const elements = [];
+    let next = heading.nextElementSibling;
+
+    while (next && !/^H[23]$/.test(next.tagName)) {
+      elements.push(next);
+      next = next.nextElementSibling;
+    }
+
+    return elements;
+  }
+
+  function value(label) {
+    const facts = section('Match Facts') || [];
+    const line = facts.find(el => el.textContent.trim().startsWith(label + ':'));
+    return line ? line.textContent.replace(label + ':', '').trim() : '';
+  }
+
+  document.getElementById('mc-competition').textContent = value('Competition');
+  document.getElementById('mc-venue').textContent = value('Venue');
+  document.getElementById('mc-attendance').textContent = value('Attendance');
+
+  const fullTime = value('Full-time');
+  const score = fullTime.match(/(.+?)\s+(\d+)\s*-\s*(\d+)\s+(.+)/);
+
+  if (score) {
+    document.getElementById('mc-home-team').textContent = score[1];
+    document.getElementById('mc-home-score').textContent = score[2];
+    document.getElementById('mc-away-team').textContent = score[4];
+    document.getElementById('mc-away-score').textContent = score[3];
+    document.getElementById('mc-full-score').textContent = score[2] + ' - ' + score[3];
+  }
+
+  document.getElementById('mc-half-time').textContent = 'Half-time: ' + value('Half-time');
+
+  const goals = section('Goalscorers') || [];
+  const goalTarget = document.getElementById('mc-goals');
+  const goalText = goals.map(el => el.textContent.trim()).filter(Boolean);
+
+  if (goalText.length && !goalText.every(t => t.toLowerCase().includes('no goalscorer'))) {
+    goalTarget.textContent = goalText.join(' ');
+  } else {
+    document.getElementById('mc-goals-section').style.display = 'none';
+  }
+
+  const stats = section('Match Statistics') || [];
+  const table = stats.find(el => el.tagName === 'TABLE');
+  const target = document.getElementById('mc-statistics');
+
+  if (table) {
+    const rows = [...table.querySelectorAll('tbody tr')];
+
+    rows.forEach(row => {
+      const cells = [...row.querySelectorAll('td')];
+      if (cells.length < 3) return;
+
+      const name = cells[0].textContent.trim();
+      const home = cells[1].textContent.trim();
+      const away = cells[2].textContent.trim();
+
+      const numeric = v => parseFloat(v.replace('%', '').replace(',', '')) || 0;
+      const a = numeric(home);
+      const b = numeric(away);
+      const total = a + b || 1;
+
+      const item = document.createElement('div');
+      item.className = 'mc-stat';
+
+      const labels = document.createElement('div');
+      labels.className = 'mc-stat-labels';
+
+      const left = document.createElement('strong');
+      left.textContent = home;
+
+      const middle = document.createElement('span');
+      middle.textContent = name;
+
+      const right = document.createElement('strong');
+      right.textContent = away;
+
+      labels.append(left, middle, right);
+
+      const bars = document.createElement('div');
+      bars.className = 'mc-bars';
+
+      const homeBar = document.createElement('div');
+      homeBar.className = 'mc-bar-home';
+      homeBar.style.width = (a / total * 100) + '%';
+
+      const awayBar = document.createElement('div');
+      awayBar.className = 'mc-bar-away';
+      awayBar.style.width = (b / total * 100) + '%';
+
+      bars.append(homeBar, awayBar);
+      item.append(labels, bars);
+      target.appendChild(item);
+    });
+  }
+
+  const sources = section('Sources') || [];
+  const sourceTarget = document.getElementById('mc-sources');
+
+  sources.forEach(el => {
+    el.querySelectorAll('a').forEach(link => {
+      const a = document.createElement('a');
+      a.href = link.href;
+      a.textContent = link.textContent || link.href;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      sourceTarget.appendChild(a);
+    });
+  });
+
+  centre.style.display = 'block';
+  content.style.display = 'none';
+});
+</script>
+
+</div>
