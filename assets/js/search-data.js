@@ -304,6 +304,28 @@ ninja.data = [{
             window.location.href = "/blog/2026/25-07-26-stoke-2-4-0-0-swfc-a-game-of-four-halves/";
           
         },
+      },{id: "post-09-05-26-swfc-legends-24-3-community-xi-carlos-comes-back-for-the-dream",
+        
+          title: "09/05/26 SWFC Legends 24-3 Community XI: Carlos comes back for the dream",
+        
+        description: "Carlos returned with the players from 2016 to thrill Hillsborough in aid of charity",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/09-05-26-swfc-legends-24-3-community-xi-carlos-comes-back-for-the-dream/";
+          
+        },
+      },{id: "post-02-05-26-swfc-2-1-west-bromwich-albion-best-day-ever",
+        
+          title: "02/05/26 SWFC 2-1 West Bromwich Albion: Best day ever",
+        
+        description: "tbc",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/02-05-26-swfc-2-1-west-bromwich-albion-best-day-ever/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
