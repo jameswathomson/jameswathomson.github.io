@@ -337,6 +337,28 @@ ninja.data = [{
             window.location.href = "/blog/2026/25-04-26-oxford-4-1-swfc-half-hearted-fiat-footed-but-the-youth-show-the-way/";
           
         },
+      },{id: "post-22-04-26-middlesbrough-1-0-swfc-owls-slump-again-as-we-gift-boro-the-win",
+        
+          title: "22/04/26 Middlesbrough 1-0 SWFC: Owls slump again as we gift Boro the win...",
+        
+        description: "The fans were premier League but the defence had a Sunday league moment as we gifted a close game to promotion chasing Boro",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/22-04-26-middlesbrough-1-0-swfc-owls-slump-again-as-we-gift-boro-the-win/";
+          
+        },
+      },{id: "post-18-04-26-swfc-1-1-charlton-benny-hill-vs-keystone-cops",
+        
+          title: "18/04/26 SWFC 1-1 Charlton: Benny Hill Vs Keystone Cops",
+        
+        description: "Not the most beautiful of games against a poor Charlton side, and we felt cheated at the end as a win was in sight",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/18-04-26-swfc-1-1-charlton-benny-hill-vs-keystone-cops/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
