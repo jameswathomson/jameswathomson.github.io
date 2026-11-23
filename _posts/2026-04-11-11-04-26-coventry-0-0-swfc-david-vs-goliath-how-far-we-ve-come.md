@@ -73,18 +73,18 @@ No goalscorer information available
 </div>
 
 <blockquote>
-What a fantastic player. It's probably he's probably he's definitely within more than the rest of the squad put together.
+What a fantastic player. He's probably worth more than the rest of the squad put together.
 </blockquote>
 
 ## Episode transcript
 
-Sheffield Wednesday five minute view from The Kop. Well, I said I said after the last match that I couldn't see him winning a match all season. Really. That was the opportunity against Leicester, however, tongue in cheek said we potentially could go on and beat Coventry. Now, we didn't go on and beat Coventry, but you know, this is this is a team that's worth about a hundred million. Against a team that's worth about five, I push and we're talking about a couple of decent players in there.
+Sheffield Wednesday five minute view from The Kop. Well, I said I said after the last match that I couldn't see him winning a match all season. Really. That was the opportunity against Leicester, however, tongue in cheek said we potentially could go on and beat Coventry. Now, we didn't go on and beat Coventry, but you know, this is this is a team that's worth about a hundred million. Against a team that's worth about five, at a push and we're talking about a couple of decent players in there.
 
-That is really coming together now, I think. We're getting players coming back. I think we're getting people settling in. I think we're getting players stepping up, especially youth. I think you know, I took by O's come on, absolutely leaps and bounds in this season.
+That is really coming together now, I think. We're getting players coming back. I think we're getting people settling in. I think we're getting players stepping up, especially youth. I think you know, Otegbayo's come on absolutely leaps and bounds in this season.
 
 ## Key Performers
 
-Pierce Charles, I mean, what more can you say about him? What a fantastic player. It's probably he's probably he's definitely within more than the rest of the squad put together.
+Pierce Charles, I mean, what more can you say about him? What a fantastic player. He's probably worth more than the rest of the squad put together.
 
 ## The Team's Resilience
 
