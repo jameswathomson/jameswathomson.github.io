@@ -83,8 +83,13 @@ document.addEventListener('DOMContentLoaded', function () {
   document.getElementById('mc-venue').textContent = value('Venue');
   document.getElementById('mc-attendance').textContent = value('Attendance');
 
-  const fullTime = value('Full-time');
-  const score = fullTime.match(/(.+?)\s+(\d+)\s*-\s*(\d+)\s+(.+)/);
+ const fullTime = value('Full-time');
+ const score = fullTime.match(/(.+?)\s+(\d+)\s*-\s*(\d+)\s+(.+)/);
+
+if (!score) {
+  centre.style.display = 'none';
+  return;
+}
 
   if (score) {
     document.getElementById('mc-home-team').textContent = score[1];
