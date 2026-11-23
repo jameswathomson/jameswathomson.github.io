@@ -293,6 +293,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/06-08-26-preview-post-oldham-pre-bolton/";
           
         },
+      },{id: "post-25-07-26-stoke-2-4-0-0-swfc-a-game-of-four-halves",
+        
+          title: "25/07/26 Stoke 2+4-0+0 SWFC: A game of four halves",
+        
+        description: "A decent run out, well actually two against championship opposition including Inglesson but the defensive frailties are still there",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/25-07-26-stoke-2-4-0-0-swfc-a-game-of-four-halves/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
