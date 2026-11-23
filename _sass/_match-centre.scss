@@ -5,6 +5,16 @@
   padding: 1.5rem;
   background: #151d2a;
   color: #fff;
+    --mc-text: #f1f5f9;
+  --mc-muted: #aebbd0;
+
+  color: var(--mc-text);
+
+  strong,
+  span,
+  small {
+    color: var(--mc-text);
+  }
   border-radius: 14px;
   box-shadow: 0 5px 20px rgba(0,0,0,.12);
 
