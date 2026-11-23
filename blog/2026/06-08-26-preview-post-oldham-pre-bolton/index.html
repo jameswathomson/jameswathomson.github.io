@@ -57,7 +57,7 @@ if (!score) {
   const goalText = goals.map(el => el.textContent.trim()).filter(Boolean);
 
   if (goalText.length && !goalText.every(t => t.toLowerCase().includes('no goalscorer'))) {
-    goalTarget.textContent = goalText.join(' ');
+    goalTarget.innerHTML = goals.map(el => el.innerHTML).join(' ');
   } else {
     document.getElementById('mc-goals-section').style.display = 'none';
   }
