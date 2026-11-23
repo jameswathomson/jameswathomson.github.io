@@ -315,17 +315,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/09-05-26-swfc-legends-24-3-community-xi-carlos-comes-back-for-the-dream/";
           
         },
-      },{id: "post-02-05-26-swfc-2-1-west-bromwich-albion-best-day-ever",
-        
-          title: "02/05/26 SWFC 2-1 West Bromwich Albion: Best day ever",
-        
-        description: "tbc",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/02-05-26-swfc-2-1-west-bromwich-albion-best-day-ever/";
-          
-        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
