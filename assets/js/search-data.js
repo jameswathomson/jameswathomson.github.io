@@ -381,6 +381,28 @@ ninja.data = [{
             window.location.href = "/blog/2026/06-04-26-swfc-1-1-leicester-owls-stop-the-losses-as-charles-shines/";
           
         },
+      },{id: "post-03-04-26-stoke-2-0-swfc-same-old-faults-but-still-singing",
+        
+          title: "03/04/26 - Stoke 2-0 SWFC: Same old faults but still singing",
+        
+        description: "Sheffield Wednesday went down two nil away at Stoke. the fans were amazing if not the team but we still keep trying. still keep singing",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/03-04-26-stoke-2-0-swfc-same-old-faults-but-still-singing/";
+          
+        },
+      },{id: "post-14-03-26-swfc-0-2-ipswich-hirst-the-panto-villain-but-she-old-wednesday",
+        
+          title: "14/03/26 - SWFC 0-2 Ipswich: Hirst the panto villain but she old Wednesday...",
+        
+        description: "The owls were undone by two late goals again as the large away following went home happy, but premiership they are not",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/14-03-26-swfc-0-2-ipswich-hirst-the-panto-villain-but-she-old-wednesday/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
