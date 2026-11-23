@@ -414,6 +414,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/11-03-26-swfc-1-1-watford-palmer-gets-500-as-owls-make-a-point/";
           
         },
+      },{id: "post-07-03-26-derby-2-1-swfc-a-missed-opportunity-must-try-harder",
+        
+          title: "07/03/26 - Derby 2-1 SWFC: A missed opportunity, must try harder",
+        
+        description: "The fans were again magnificent but as always the owls came up short. we scored again but we concede far too easily",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/07-03-26-derby-2-1-swfc-a-missed-opportunity-must-try-harder/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
