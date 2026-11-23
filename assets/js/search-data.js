@@ -425,6 +425,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/07-03-26-derby-2-1-swfc-a-missed-opportunity-must-try-harder/";
           
         },
+      },{id: "post-28-02-26-swfc-1-3-southampton-same-struggle-same-result",
+        
+          title: "28/02/26 - SWFC 1-3 Southampton: Same struggle, same result",
+        
+        description: "The owls went down again at home after showing some spirit but were again undone by poor defending. The glimmers of hope are still there, we are capable of beating someone, we just need to find them!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/28-02-26-swfc-1-3-southampton-same-struggle-same-result/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
