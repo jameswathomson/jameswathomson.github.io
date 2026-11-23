@@ -74,10 +74,19 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function value(label) {
-    const facts = section('Match Facts') || [];
-    const line = facts.find(el => el.textContent.trim().startsWith(label + ':'));
-    return line ? line.textContent.replace(label + ':', '').trim() : '';
-  }
+  const facts = section('Match Facts') || [];
+  const text = facts.map(el => el.textContent).join(' ');
+
+  const labels = 'Competition|Venue|Kick-off|Attendance|Full-time|Half-time';
+
+  const regex = new RegExp(
+    '(?:^|\\s)' + label + ':\\s*(.*?)(?=\\s+(?:' + labels + '):|$)',
+    'i'
+  );
+
+  const match = text.match(regex);
+  return match ? match[1].trim() : '';
+}
 
   document.getElementById('mc-competition').textContent = value('Competition');
   document.getElementById('mc-venue').textContent = value('Venue');
