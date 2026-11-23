@@ -282,6 +282,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/08-08-26-swfc-1-0-bolton-proud-of-the-boys/";
           
         },
+      },{id: "post-06-08-26-preview-post-oldham-pre-bolton",
+        
+          title: "06/08/26 Preview: Post-Oldham, Pre-Bolton",
+        
+        description: "Got those post Oldham blues? Well I try and take a positive stance from sunny Crete where I&#39;ve been following the action",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/06-08-26-preview-post-oldham-pre-bolton/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
