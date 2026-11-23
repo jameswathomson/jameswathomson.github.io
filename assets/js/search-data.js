@@ -392,6 +392,28 @@ ninja.data = [{
             window.location.href = "/blog/2026/03-04-26-stoke-2-0-swfc-same-old-faults-but-still-singing/";
           
         },
+      },{id: "post-14-03-26-swfc-0-2-ipswich-hirst-the-panto-villain-but-she-old-wednesday",
+        
+          title: "14/03/26 - SWFC 0-2 Ipswich: Hirst the panto villain but she old Wednesday...",
+        
+        description: "The owls were undone by two late goals again as the large away following went home happy, but premiership they are not",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/14-03-26-swfc-0-2-ipswich-hirst-the-panto-villain-but-she-old-wednesday/";
+          
+        },
+      },{id: "post-11-03-26-swfc-1-1-watford-palmer-gets-500-as-owls-make-a-point",
+        
+          title: "11/03/26 - SWFC 1-1 Watford: Palmer gets 500 as Owls make a point...",
+        
+        description: "we nearly did it! Sheffield Wednesday. managed to get a point and were so close to getting a comfortable victory against a promotion chase in Watford",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/11-03-26-swfc-1-1-watford-palmer-gets-500-as-owls-make-a-point/";
+          
+        },
       },{id: "post-becoming-a-genealogist-getting-started-with-ancestry",
         
           title: "Becoming a Genealogist - Getting Started with Ancestry",
