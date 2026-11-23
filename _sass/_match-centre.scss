@@ -114,7 +114,12 @@
       margin-bottom: 1.2rem;
     }
   }
-
+  
+#mc-goals,
+#mc-goals * {
+  color: #ffffff !important;
+}
+  
   .mc-stat {
     margin-bottom: 1rem;
   }
