@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/videos/";
           },
-        },{id: "post-20-11-26-barnsley-1-2-swfc-not-so-easy-does-it-as-owls-go-third",
+        },{id: "post-24-11-26-stevenage-0-0-swfc-lots-of-running-around-and-no-end-product",
+        
+          title: "24/11/26 Stevenage 0-0 SWFC: Lots of running around and no end product",
+        
+        description: "The Owls continued their unbeaten run in the league under Challinor against a strong defensive Stevenage team but could have easily lost",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/24-11-26-stevenage-0-0-swfc-lots-of-running-around-and-no-end-product/";
+          
+        },
+      },{id: "post-20-11-26-barnsley-1-2-swfc-not-so-easy-does-it-as-owls-go-third",
         
           title: "20/11/26 Barnsley 1-2 SWFC: Not so easy does it as Owls go third...",
         
