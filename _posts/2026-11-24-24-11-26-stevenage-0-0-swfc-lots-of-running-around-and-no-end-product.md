@@ -50,7 +50,7 @@ We'd made again five substitutions, which is a positive that we've got the playe
 
 
 
-## Billy Mitchell breaks the deadlock
+## We struggled with their strength
 
 Billy Mitchell for Heskey, I'm surprised that that one was quite a late substitution, just in the sense that Heskey sort of got booked 10 minutes in and he was sawing himself into a few tackles, and yeah, I suppose the referee was a little bit leaning in that sense that we didn't get that many bookings in the game, but they were very strong in the challenges and we couldn't really cope with that because they were pushing on to us, and again, you know, it's about how quick can we get that ball from player to player and have we got the players in space.
 
